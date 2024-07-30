@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|solutionrelative:Src\\PlayScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|solutionrelative:Src\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|solutionrelative:Src\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.36.32532\\INCLUDE\\STRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|solutionrelative:Src\\PlayScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C277B78C-CCEF-4617-A5A8-77FA17C26BBB}|project.vcxproj|solutionrelative:Src\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAlwNEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-30T10:25:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\camera.cpp",
+              "RelativeDocumentMoniker": "Src\\camera.cpp",
+              "ToolTip": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\camera.cpp",
+              "RelativeToolTip": "Src\\camera.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T10:05:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayScene.cpp",
+              "DocumentMoniker": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.cpp",
+              "RelativeDocumentMoniker": "Src\\PlayScene.cpp",
+              "ToolTip": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.cpp",
+              "RelativeToolTip": "Src\\PlayScene.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T01:36:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.cpp",
+              "RelativeDocumentMoniker": "Src\\Player.cpp",
+              "ToolTip": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.cpp",
+              "RelativeToolTip": "Src\\Player.cpp",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAFsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T06:13:06.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayScene.h",
+              "DocumentMoniker": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.h",
+              "RelativeDocumentMoniker": "Src\\PlayScene.h",
+              "ToolTip": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\PlayScene.h",
+              "RelativeToolTip": "Src\\PlayScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T08:52:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.h",
+              "RelativeDocumentMoniker": "Src\\Player.h",
+              "ToolTip": "C:\\Users\\A23002\\Desktop\\GC\u7532\u5B50\u5712\u7528\\ForGCC\\Src\\Player.h",
+              "RelativeToolTip": "Src\\Player.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T01:40:38.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
